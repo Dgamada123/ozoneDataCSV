@@ -330,28 +330,3 @@ county,fips,year,ozonePersonDayMon,ozoneDayStdMon,ozoneDayStdMod,ozoneAvgMod,ozo
 "Wright","27171","2018","393390","3","null","No data available","null","6.9","0","0","No data available","null","y","y","y"
 "Wright","27171","2019","0","0","null","No data available","null","5.5","0","0","No data available","null","y","y","y"
 "Wright","27171","2020","132745","1","null","No data available","null","6.2","0","0","No data available","","y","y","y"
-
-
-Note: The National Ambient Air Quality Standard (annual) for fine particles is 12 micrograms per cubic meter of air.
-* No Data Available.  (Monitor data are not available if there were no active monitors in the county during the time selected or the active monitors did not meet the minimum completeness requirements during the time selected.)
-micrograms per cubic meter = micrograms per cubic meter of ambient air
-ppb = parts per billion
-Person-days are calculated as: (% of days above ozone/PM2.5 standard) x (number of days monitored in a year) x (county population)
-standard = US EPA National Ambient Air Quality Standard (NAAQS)
-Monitor data are levels of PM2.5 and ozone measured in the air by air quality monitors.
-These data are available only for counties with air monitors.
-Modeled air data are estimated levels of PM2.5 and ozone in the air and are available for all counties.
-Modeled air estimates may differ from the air monitor measurements.
-These data can not be used to show regulatory compliance with the National Ambient Air Quality Standard.
-
-Source:
-Minnesota Public Health Data Access
-Minnesota Environmental Public Health Tracking Program
-Minnesota Department of Health
-P.O. Box 64882
-"St. Paul, MN 55164-0882"
-Phone: (651) 201-5900 or toll free: 1-800-205-4987
-Fax: (651) 201-5926
-E-mail: tracking.health@state.mn.us
-Web: https://apps.health.state.mn.us/mndata/ 
-
