@@ -1,0 +1,175 @@
+__Outcome,__Year,_County,"Age-adjusted rate per 100,000",Note,Count of cases
+Hospitalizations,2010-2019,Houston,0,Unstable rate due to small population,0
+Hospitalizations,2010-2019,Cottonwood,1,Unstable rate due to small population,1
+Hospitalizations,2010-2019,Jackson,1,Unstable rate due to small population,2
+Hospitalizations,2010-2019,Kanabec,1,Unstable rate due to small population,1
+Hospitalizations,2010-2019,Lyon,1,Unstable rate due to small population,2
+Hospitalizations,2010-2019,Martin,1,Unstable rate due to small population,4
+Hospitalizations,2010-2019,Nicollet,1,Unstable rate due to small population,4
+Hospitalizations,2010-2019,Roseau,1,Unstable rate due to small population,2
+Hospitalizations,2010-2019,Dakota,2,,80
+Hospitalizations,2010-2019,Scott,2,,28
+Hospitalizations,2010-2019,Wright,2,,28
+Hospitalizations,2010-2019,Benton,2,Unstable rate due to small population,6
+Hospitalizations,2010-2019,Carver,2,Unstable rate due to small population,19
+Hospitalizations,2010-2019,Douglas,2,Unstable rate due to small population,10
+Hospitalizations,2010-2019,Freeborn,2,Unstable rate due to small population,8
+Hospitalizations,2010-2019,Goodhue,2,Unstable rate due to small population,15
+Hospitalizations,2010-2019,Koochiching,2,Unstable rate due to small population,4
+Hospitalizations,2010-2019,McLeod,2,Unstable rate due to small population,7
+Hospitalizations,2010-2019,Meeker,2,Unstable rate due to small population,5
+Hospitalizations,2010-2019,Nobles,2,Unstable rate due to small population,4
+Hospitalizations,2010-2019,Pope,2,Unstable rate due to small population,4
+Hospitalizations,2010-2019,Rice,2,Unstable rate due to small population,13
+Hospitalizations,2010-2019,Sherburne,2,Unstable rate due to small population,19
+Hospitalizations,2010-2019,Sibley,2,Unstable rate due to small population,5
+Hospitalizations,2010-2019,Steele,2,Unstable rate due to small population,9
+Hospitalizations,2010-2019,Watonwan,2,Unstable rate due to small population,3
+Hospitalizations,2010-2019,Washington,3,,76
+Hospitalizations,2010-2019,Blue Earth,3,Unstable rate due to small population,17
+Hospitalizations,2010-2019,Brown,3,Unstable rate due to small population,9
+Hospitalizations,2010-2019,Faribault,3,Unstable rate due to small population,4
+Hospitalizations,2010-2019,Kandiyohi,3,Unstable rate due to small population,12
+Hospitalizations,2010-2019,Le Sueur,3,Unstable rate due to small population,7
+Hospitalizations,2010-2019,Morrison,3,Unstable rate due to small population,9
+Hospitalizations,2010-2019,Otter Tail,3,Unstable rate due to small population,19
+Hospitalizations,2010-2019,Pennington,3,Unstable rate due to small population,5
+Hospitalizations,2010-2019,Polk,3,Unstable rate due to small population,8
+Hospitalizations,2010-2019,Wabasha,3,Unstable rate due to small population,8
+Hospitalizations,2010-2019,Winona,3,Unstable rate due to small population,14
+Hospitalizations,2010-2019,Anoka,4,,136
+Hospitalizations,2010-2019,Crow Wing,4,,27
+Hospitalizations,2010-2019,Olmsted,4,,65
+Hospitalizations,2010-2019,Stearns,4,,54
+Hospitalizations,2010-2019,Carlton,4,Unstable rate due to small population,16
+Hospitalizations,2010-2019,Chippewa,4,Unstable rate due to small population,5
+Hospitalizations,2010-2019,Chisago,4,Unstable rate due to small population,19
+Hospitalizations,2010-2019,Fillmore,4,Unstable rate due to small population,9
+Hospitalizations,2010-2019,Isanti,4,Unstable rate due to small population,17
+Hospitalizations,2010-2019,Mille Lacs,4,Unstable rate due to small population,12
+Hospitalizations,2010-2019,Mower,4,Unstable rate due to small population,17
+Hospitalizations,2010-2019,Renville,4,Unstable rate due to small population,8
+Hospitalizations,2010-2019,Todd,4,Unstable rate due to small population,9
+Hospitalizations,2010-2019,Wadena,4,Unstable rate due to small population,5
+Hospitalizations,2010-2019,Beltrami,5,,23
+Hospitalizations,2010-2019,Clay,5,,27
+Hospitalizations,2010-2019,Itasca,5,,25
+Hospitalizations,2010-2019,Becker,5,Unstable rate due to small population,15
+Hospitalizations,2010-2019,Dodge,5,Unstable rate due to small population,10
+Hospitalizations,2010-2019,Hubbard,5,Unstable rate due to small population,10
+Hospitalizations,2010-2019,Pine,5,Unstable rate due to small population,18
+Hospitalizations,2010-2019,Redwood,5,Unstable rate due to small population,9
+Hospitalizations,2010-2019,Hennepin,6,,712
+Hospitalizations,2010-2019,Ramsey,6,,316
+Hospitalizations,2010-2019,St. Louis,6,,126
+Hospitalizations,2010-2019,Aitkin,6,Unstable rate due to small population,13
+Hospitalizations,2010-2019,Lake,6,Unstable rate due to small population,7
+Emergency department visits,2015-2019,Sibley,7,Unstable rate due to small population,8
+Hospitalizations,2010-2019,Waseca,7,Unstable rate due to small population,13
+Emergency department visits,2015-2019,Benton,8,Unstable rate due to small population,16
+Emergency department visits,2015-2019,Nobles,8,Unstable rate due to small population,9
+Hospitalizations,2010-2019,Yellow Medicine,8,Unstable rate due to small population,8
+Hospitalizations,2010-2019,Cass,9,,30
+Emergency department visits,2015-2019,Le Sueur,9,Unstable rate due to small population,12
+Emergency department visits,2015-2019,Carver,10,,44
+Emergency department visits,2015-2019,Dakota,10,,209
+Emergency department visits,2015-2019,Scott,10,,68
+Emergency department visits,2015-2019,Wright,10,,62
+Emergency department visits,2015-2019,Lyon,11,Unstable rate due to small population,14
+Emergency department visits,2015-2019,Nicollet,11,Unstable rate due to small population,19
+Emergency department visits,2015-2019,Stevens,11,Unstable rate due to small population,6
+Emergency department visits,2015-2019,Watonwan,11,Unstable rate due to small population,9
+Emergency department visits,2015-2019,Goodhue,12,,28
+Emergency department visits,2015-2019,Sherburne,12,,55
+Emergency department visits,2015-2019,Chippewa,12,Unstable rate due to small population,7
+Emergency department visits,2015-2019,Blue Earth,13,,42
+Emergency department visits,2015-2019,Anoka,14,,237
+Emergency department visits,2015-2019,Rice,14,,44
+Emergency department visits,2015-2019,Washington,14,,171
+Emergency department visits,2015-2019,Fillmore,14,Unstable rate due to small population,13
+Emergency department visits,2015-2019,Jackson,14,Unstable rate due to small population,7
+Emergency department visits,2015-2019,Meeker,14,Unstable rate due to small population,18
+Emergency department visits,2015-2019,Brown,15,,24
+Emergency department visits,2015-2019,McLeod,15,,29
+Emergency department visits,2015-2019,Winona,15,,35
+Emergency department visits,2015-2019,Cottonwood,15,Unstable rate due to small population,10
+Emergency department visits,2015-2019,Koochiching,15,Unstable rate due to small population,11
+Emergency department visits,2015-2019,Pennington,15,Unstable rate due to small population,11
+Emergency department visits,2015-2019,Todd,15,Unstable rate due to small population,19
+Emergency department visits,2015-2019,Douglas,16,,27
+Emergency department visits,2015-2019,Mower,16,,35
+Emergency department visits,2015-2019,Steele,16,,27
+Emergency department visits,2015-2019,Martin,16,Unstable rate due to small population,16
+Emergency department visits,2015-2019,Faribault,17,Unstable rate due to small population,13
+Emergency department visits,2015-2019,Wabasha,17,Unstable rate due to small population,18
+Emergency department visits,2015-2019,Waseca,17,Unstable rate due to small population,17
+Emergency department visits,2015-2019,Olmsted,18,,136
+Emergency department visits,2015-2019,Pipestone,18,Unstable rate due to small population,8
+Emergency department visits,2015-2019,Chisago,19,,47
+Emergency department visits,2015-2019,Stearns,19,,146
+Emergency department visits,2015-2019,Pope,19,Unstable rate due to small population,12
+Emergency department visits,2015-2019,Kandiyohi,20,,41
+Emergency department visits,2015-2019,Otter Tail,20,,54
+Emergency department visits,2015-2019,Polk,20,,34
+Emergency department visits,2015-2019,Roseau,20,Unstable rate due to small population,16
+Emergency department visits,2015-2019,Crow Wing,21,,59
+Emergency department visits,2015-2019,Freeborn,21,,30
+Emergency department visits,2015-2019,Redwood,21,Unstable rate due to small population,16
+Emergency department visits,2015-2019,Wilkin,21,Unstable rate due to small population,6
+Emergency department visits,2015-2019,Swift,22,Unstable rate due to small population,10
+Emergency department visits,2015-2019,Clay,23,,73
+Emergency department visits,2015-2019,Hubbard,23,,25
+Emergency department visits,2015-2019,Rock,23,Unstable rate due to small population,10
+Emergency department visits,2015-2019,Carlton,24,,41
+Emergency department visits,2015-2019,Dodge,24,,22
+Emergency department visits,2015-2019,Isanti,24,,44
+Emergency department visits,2015-2019,Kanabec,24,Unstable rate due to small population,19
+Emergency department visits,2015-2019,Renville,24,Unstable rate due to small population,19
+Emergency department visits,2015-2019,Grant,25,Unstable rate due to small population,9
+Emergency department visits,2015-2019,Morrison,26,,43
+Emergency department visits,2015-2019,Yellow Medicine,26,Unstable rate due to small population,12
+Emergency department visits,2015-2019,Ramsey,27,,743
+Emergency department visits,2015-2019,Becker,28,,44
+Emergency department visits,2015-2019,Cass,28,,39
+Emergency department visits,2015-2019,Hennepin,28,,1779
+Emergency department visits,2015-2019,Itasca,28,,65
+Emergency department visits,2015-2019,Aitkin,29,,25
+Emergency department visits,2015-2019,Murray,29,Unstable rate due to small population,11
+Emergency department visits,2015-2019,Norman,29,Unstable rate due to small population,9
+Emergency department visits,2015-2019,Marshall,30,Unstable rate due to small population,13
+Emergency department visits,2015-2019,Beltrami,33,,73
+Emergency department visits,2015-2019,Big Stone,33,Unstable rate due to small population,9
+Emergency department visits,2015-2019,Lake,33,Unstable rate due to small population,17
+Emergency department visits,2015-2019,Clearwater,34,Unstable rate due to small population,13
+Emergency department visits,2015-2019,Wadena,35,,24
+Emergency department visits,2015-2019,Lake of the Woods,35,Unstable rate due to small population,7
+Emergency department visits,2015-2019,Cook,36,Unstable rate due to small population,9
+Emergency department visits,2015-2019,Mille Lacs,37,,44
+Emergency department visits,2015-2019,Pine,38,,53
+Emergency department visits,2015-2019,St. Louis,40,,376
+Emergency department visits,2015-2019,Mahnomen,112,,26
+Hospitalizations,2010-2019,Big Stone,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Clearwater,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Cook,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Grant,*,*Data suppressed for small population,*
+Emergency department visits,2015-2019,Houston,*,*Data suppressed for small population,*
+Emergency department visits,2015-2019,Kittson,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Kittson,*,*Data suppressed for small population,*
+Emergency department visits,2015-2019,Lac qui Parle,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Lac qui Parle,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Lake of the Woods,*,*Data suppressed for small population,*
+Emergency department visits,2015-2019,Lincoln,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Lincoln,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Mahnomen,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Marshall,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Murray,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Norman,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Pipestone,*,*Data suppressed for small population,*
+Emergency department visits,2015-2019,Red Lake,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Red Lake,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Rock,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Stevens,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Swift,*,*Data suppressed for small population,*
+Emergency department visits,2015-2019,Traverse,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Traverse,*,*Data suppressed for small population,*
+Hospitalizations,2010-2019,Wilkin,*,*Data suppressed for small population,*
